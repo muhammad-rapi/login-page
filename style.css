@@ -17,7 +17,6 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-bottom:200px;
 }
 
 /* login */
@@ -166,7 +165,6 @@ body {
     position: absolute;
     bottom: -100px;
     left: 80px;
-    margin-bottom:50px;
 }
 
 .follow h3{
